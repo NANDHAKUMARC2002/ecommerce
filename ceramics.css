@@ -1,0 +1,217 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.navbar ul{
+    border:1px solid rgb(250, 221, 221);
+    border-radius:8px;
+    background-color: rgb(0, 0, 0);
+    box-sizing:border-box;
+    height:35px;
+    width:1400px;
+    margin-left:55px;
+    margin-top:80px;
+ 
+}
+.navbar ul li{
+    display:inline-block;
+    padding:18px;
+    margin-left:42px;
+    font-size: 16.5px;
+    margin-top:-13px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color:beige;
+}
+.navbar a:hover{
+    color:rgb(239, 89, 89);
+}
+.navbar a:active{
+    color:rgb(239, 89, 89);
+}
+/*----------------------------------------------------------------------------------------------------------------*/
+#header h2{
+    margin-top:80px;
+    margin-left:70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    color:brown;
+}
+/*----------------------------------------------------------------------------------------------------------------*/
+#pic1 img{
+    width:260px;
+    height:300px;
+    margin-top:5px;
+    margin-left:1px;
+}
+#pic1 {
+    border:2px solid rgb(255, 47, 0);
+    border-radius:10px;
+    height:350px;
+    width:290px;
+    box-sizing: border-box;
+    margin-left:90px;
+    margin-top:100px;
+}
+#pic1 p{
+    margin-left:100px;
+    margin-top:-50px;
+    font-weight:400;
+    font-size:18px;
+}
+#pic1 h4{
+    margin-left:35px;
+    margin-top:15px;
+    border:1px solid  rgb(255, 248, 118);
+    width:85px;
+    padding:2.5px;
+    padding-left:7.5px;
+    background-color: rgb(255, 248, 118);
+    border-radius:5px;
+}
+#pic1 h3{
+    margin-left:150px;
+    margin-top:-25px;
+    border:1px solid rgb(255, 248, 118);
+    border-radius:5px;
+    height:25px;
+    width:75px;
+    padding-left:20px;
+    background-color: rgb(255, 248, 118);
+    border-radius:5px;
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+#pic2 img{
+    width:250px;
+    height:230px;
+    margin-left:17px;
+    margin-top:15px;
+    border-radius:10px;
+}
+#pic2 {
+    border:2px solid rgb(255, 47, 0);
+    border-radius:10px;
+    height:350px;
+    width:290px;
+    box-sizing: border-box;
+    margin-left:400px;
+    margin-top:-350px;
+}
+#pic2 p{
+    margin-left:85px;
+    margin-top:10px;
+    font-weight:400;
+    font-size:18px;
+}
+#pic2  h4{
+    margin-left:30px;
+    margin-top:5px;
+    border:1px solid  rgb(255, 248, 118);
+    width:85px;
+    padding:2.5px;
+    padding-left:6px;
+    background-color: rgb(255, 248, 118);
+    border-radius:5px;
+}
+#pic2 h3{
+    margin-left:165px;
+    margin-top:-25px;
+    border:1px solid rgb(255, 248, 118);
+    border-radius:5px;
+    height:25px;
+    width:75px;
+    padding-left:20px;
+    background-color: rgb(255, 248, 118);
+    border-radius:5px;
+}
+/*----------------------------------------------------------------------------------------------------------------*/
+
+#pic3 img{
+    width:280px;
+    height:240px;
+    margin-left:10px;
+    margin-top:10px;
+    border-radius:10px;
+}
+#pic3{
+    border:2px solid rgb(255, 47, 0);
+    border-radius:10px;
+    height:350px;
+    width:310px;
+    box-sizing: border-box;
+    margin-left:730px;
+    margin-top:-350px;
+}
+#pic3 p{
+    margin-left:70px;
+    margin-top:10px;
+    font-weight:400;
+    font-size:18px;
+}
+#pic3 h4{
+    margin-left:40px;
+    margin-top:5px;
+    border:1px solid  rgb(255, 248, 118);
+    width:85px;
+    padding:2.5px;
+    padding-left:6px;
+    background-color: rgb(255, 248, 118);
+    border-radius:5px;
+}
+#pic3 h3{
+    margin-left:190px;
+    margin-top:-25px;
+    border:1px solid rgb(255, 248, 118);
+    border-radius:5px;
+    height:25px;
+    width:75px;
+    padding-left:20px;
+    background-color: rgb(255, 248, 118);
+    border-radius:5px;
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------------------*/
+#pic4 img{
+    width:260px;
+    height:250px;
+    margin-left:22px;
+    margin-top:10px;
+}
+#pic4 {
+    border:2px solid rgb(255, 47, 0);
+    border-radius:10px;
+    height:350px;
+    width:310px;
+    box-sizing: border-box;
+    margin-left:1085px;
+    margin-top:-350px;
+}
+#pic4  p{
+    margin-left:90px;
+    margin-top:5px;
+    font-weight:400;
+    font-size:18px;
+}
+#pic4  h4{
+    margin-left:25px;
+    margin-top:1px;
+    border:1px solid  rgb(255, 248, 118);
+    width:85px;
+    padding:2.5px;
+    padding-left:6px;
+    background-color: rgb(255, 248, 118);
+    border-radius:5px;
+}
+#pic4  h3{
+    margin-left:180px;
+    margin-top:-25px;
+    border:1px solid rgb(255, 248, 118);
+    border-radius:5px;
+    height:25px;
+    width:75px;
+    padding-left:20px;
+    background-color: rgb(255, 248, 118);
+    border-radius:5px;
+}
+/*----------------------------------------------------------------------------------------------------------------------------------------*/
